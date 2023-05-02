@@ -1,0 +1,57 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"...\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"ugh...\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"...I feel so weird...\""
+		},
+		{
+			"background": "res://Backgrounds/15A72EA3-E61A-4A4B-A47D-E746B039EE5C.jpeg",
+			"event_id": "dialogic_021",
+			"fade_duration": 5
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sonder song/normal sonder song (1).wav",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He opens his eyes, and tries to stand up."
+		},
+		{
+			"character": "character-1682720366.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Huh?! Why am I... a dust bunny???\""
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682721018.json",
+		"name": "beginning"
+	}
+}

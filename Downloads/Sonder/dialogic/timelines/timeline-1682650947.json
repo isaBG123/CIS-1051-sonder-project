@@ -1,0 +1,126 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/extended sonder song.wav",
+			"volume": 0
+		},
+		{
+			"background": "res://Backgrounds/D35D1FE5-47DE-4A3B-A42E-DD6A1CBDF564.jpeg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dust Bunny peaks into a manager's office."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645529.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682645529.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Man, it would suck if we weren't managers before this all started.\"\n\"Kind of feel bad for the newbies.\""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645540.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682645540.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Tell me about it.\" \n\"They have no idea they practically signed their lives away.\"\n\"I'd hate getting sick like Hiro.\""
+		},
+		{
+			"character": "character-1682720366.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"...\"\n\"...Wait a second...\"\n\"...That's me.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Isaac proceeds to open a pill bottle."
+		},
+		{
+			"character": "character-1682645540.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Are you gonna take your meds?\" \n\"Or did you already-\""
+		},
+		{
+			"character": "character-1682645529.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Damn, I forgot them.\"\n\"Mind if I borrow a dosage?\""
+		},
+		{
+			"character": "character-1682645540.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Alright, but you owe me.\""
+		},
+		{
+			"character": "character-1682645529.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"I hear ya.\""
+		},
+		{
+			"character": "character-1682720366.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Huh. that's... strange.\"\n\"I wonder where the boss is...\""
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682650947.json",
+		"name": "timeline3"
+	}
+}

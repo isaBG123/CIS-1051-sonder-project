@@ -1,0 +1,96 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/extended sonder song.wav",
+			"volume": 0
+		},
+		{
+			"background": "res://Backgrounds/7EA292E7-28BB-41D1-BF54-BCE16D8D1719.jpeg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dust Bunny approaches an older office worker sitting at a desk isolated from the others, typing away an email to his boss."
+		},
+		{
+			"background": "res://Backgrounds/3D4C296F-2B63-4974-A178-2CD8E8BA49D3.JPEG",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://SFX/typing.wav",
+			"volume": 0
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Dear Mr. Smith,\n\"I have been feeling awfully unwell as of late.\"\n\"I have saved enough money to see a doctor on Friday, so I will not be able to attend work.\"\n\"I will let you know if I require medical leave.\"\n\"Thank you,\"\n\"Joseph Werner” "
+		},
+		{
+			"background": "res://Backgrounds/7EA292E7-28BB-41D1-BF54-BCE16D8D1719.jpeg",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
+		},
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 4,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 3
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/weird sonder song.wav",
+			"volume": 0
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"character": "character-1682720366.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Oh no.\"\n\"This can't be happening.\"\n\"I need to see if the managers are ok.\""
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682642963.json",
+		"name": "timeline-1682642963"
+	}
+}

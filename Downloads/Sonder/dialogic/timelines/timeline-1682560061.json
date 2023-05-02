@@ -1,0 +1,138 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/extended sonder song.wav",
+			"volume": 0
+		},
+		{
+			"background": "res://Backgrounds/B68C6B9D-B4D9-4DBB-A7DC-BB7666B63E0D.jpeg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Dust Bunny arrives near a cluster of office desks.\nTwo new office workers are seated next to each other. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682557459.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682557459.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Hello, I’m new here. My name is Ellie.”"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682559359.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682559359.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "”I’m a new hire too! Felice, nice to meet you. I started working a week ago.”"
+		},
+		{
+			"character": "character-1682720366.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Why is Felice sitting at my desk..?\""
+		},
+		{
+			"character": "character-1682557459.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Nice to meet you too!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There is a pause."
+		},
+		{
+			"character": "character-1682557459.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“There sure have been a lot of new hires for this job, huh? I wonder what happened.”"
+		},
+		{
+			"character": "character-1682559359.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“The business is probably just expanding, that’s my guess.”"
+		},
+		{
+			"character": "character-1682557459.json",
+			"event_id": "dialogic_001",
+			"portrait": "Teehee",
+			"text": "[wave amp=50 freq=2][color=#A5EFAC]\"Or maybe there's a chemical leak turning everyone into zombies...\"[/color][/wave]"
+		},
+		{
+			"character": "character-1682559359.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"...You sound like you've been watching too many apocalypse shows.\""
+		},
+		{
+			"character": "character-1682557459.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "\"How did you know?\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The girls continue to talk amongst eachother.\nHowever, Dust Bunny spots somebody in the distance."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682560061.json",
+		"name": "timeline-1682560061"
+	}
+}

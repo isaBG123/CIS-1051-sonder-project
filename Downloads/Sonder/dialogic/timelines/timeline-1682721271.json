@@ -1,0 +1,310 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/extended sonder song.wav",
+			"volume": 0
+		},
+		{
+			"background": "res://Backgrounds/A45D56B8-ADED-490A-B846-0D0545F9D275.jpeg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiro arrives at the Boss's room, watching him type up an email."
+		},
+		{
+			"background": "res://Backgrounds/2ABFD420-970E-406B-A04E-5393F167CA8C.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/typing.wav",
+			"volume": 0
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Joseph Werner,\"\n\"Please meet with me by the end of the day.\" \n\"I will be in my office.\"\n\"Ian Smith\""
+		},
+		{
+			"background": "res://Backgrounds/A45D56B8-ADED-490A-B846-0D0545F9D275.jpeg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/sigh.wav",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "He lies back in his chair, sighing."
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Oh Hiro, you shoud of never gone down under there...\""
+		},
+		{
+			"character": "character-1682645548.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Huh? Under where?\"\n\"... I just said underwear.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Some time passes, and Joseph comes into Mr. Smith's office."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Good afternoon, Mr. Smith.\" \n\"You wanted to see me?\""
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Yes, about your illness.\"\n\"Take your bandages off and read this.\"\n\"Do you happen to have any of these symptoms?\""
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/weird sonder song extended.wav",
+			"volume": 0
+		},
+		{
+			"animation": "shake_x.gd",
+			"animation_length": 3,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "unbandaged",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Joseph unbandages himself, revealing skin that is inflamed and raw as if a lion ripped off his flesh.\nBoss hands him a piece of paper."
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"These are my exact symptoms- How did you know?\""
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"That is something a refuse to disclose\"\n\"However, you've been working here a long time; 10 years, yes?\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Joseph nods while his skinned neck squelches. \nMr. Smith flinches."
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"I will give you a raise to a management postion, but on one condition.\"\n\"Never talk about... this.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Smith looks Joseph up and down."
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"But why-\""
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Shh.\"\n\"Managers get an exclusive medicine we've been working on.\"\n\"There's a new... illness going around.\""
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Alright, but what about the others-\""
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Do you want the promotion or not?\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Joseph pauses to think, then nods."
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Wise choice.\"\n\"Your medication will be in tomorrow, so cancel your appointment.\"\n\"In the meantime, cover back up, and I'll show you something.\""
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://Sonder Song/sonder song no sfx.wav",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Boss glances over to your location while Joseph rewraps his bandages."
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Ugh, a dust bunny.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Boss swats at Hiro, pulling apart all the little dusk particles that made up his temporary body.\nHiro is put back out of consciousness."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682721271.json",
+		"name": "boss n jo (pt 4)"
+	}
+}

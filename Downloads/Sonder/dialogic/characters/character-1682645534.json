@@ -1,0 +1,25 @@
+{
+	"color": "#ffcaff61",
+	"description": "Senior Worker",
+	"display_name": "Joseph",
+	"display_name_bool": true,
+	"id": "character-1682645534.json",
+	"mirror_portraits": false,
+	"name": "JosephWerner.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Character Sprites/Joseph Werner 2.PNG"
+		},
+		{
+			"name": "unbandaged",
+			"path": "res://Character Sprites/Joseph Werner 3.PNG"
+		}
+	],
+	"scale": 25,
+	"theme": "default-theme.cfg"
+}

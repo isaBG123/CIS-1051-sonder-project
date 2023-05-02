@@ -1,0 +1,21 @@
+{
+	"color": "#fffeffac",
+	"description": "Worker 2",
+	"display_name": "Felice",
+	"display_name_bool": true,
+	"id": "character-1682559359.json",
+	"mirror_portraits": false,
+	"name": "Felice.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Character Sprites/felice.PNG"
+		}
+	],
+	"scale": 30,
+	"theme": "default-theme.cfg"
+}

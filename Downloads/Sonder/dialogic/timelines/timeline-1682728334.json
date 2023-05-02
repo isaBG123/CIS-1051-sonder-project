@@ -1,0 +1,237 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://sonder song/weird sonder song extended.wav",
+			"volume": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiro awakens in a dark, dingy area. \nHis pants are coated in a slimy, mucus-like substance stained by his own blood.\nA sulfuric smell travels from the broken flasks on the ground and into Hiro's nose.\nEverything starts to click.\nJoseph and Mr. Smith enter the room, casting a beam of light inside. "
+		},
+		{
+			"background": "res://backgrounds/CCD3B0B7-806B-4218-AE9B-7016A7CC1D3E.JPEG",
+			"event_id": "dialogic_021",
+			"fade_duration": 2
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"..\"\n\"What is this place..?\"\n\"And why does it smell like... eggs?\""
+		},
+		{
+			"audio": "play",
+			"audio_bus": "Master",
+			"event_id": "dialogic_030",
+			"event_name": "AudioEvent",
+			"file": "res://sfx/sigh.wav",
+			"volume": -0.1
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Smith sighs."
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Well, we had a couple of curious workers here that interfered with some...\"\n\"Research.\""
+		},
+		{
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"What kind of research?\""
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"That's classified-\""
+		},
+		{
+			"character": "character-1682645548.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"He wants to reanimate dead corpses.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiro stands up. The mucus-like substance gushes beneath his feet."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1682645534.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": true,
+			"change_position": true,
+			"change_z_index": false,
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682645548.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mr. Smith gasps."
+		},
+		{
+			"character": "character-1682645552.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"How are you-\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiro grabs a glass shard, slowly walking towards Mr. Smith."
+		},
+		{
+			"animation": "pulse.gd",
+			"animation_length": 10,
+			"animation_repeat": 1,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1682645548.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "(Don't change)",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"character": "character-1682645548.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"You want to reanimate dead corpses to work for you.\"\n\"That's why you trapped all of us here.\"\n\"And why you kept me and my colleagues down here.\"\n\"So that even in our afterlife we're stuck working at this god forsaken office.\"\n\"I'm going to put an end to this.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hiro strikes at Mr. Smith."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682728334.json",
+		"name": "basement...(pt5)"
+	}
+}

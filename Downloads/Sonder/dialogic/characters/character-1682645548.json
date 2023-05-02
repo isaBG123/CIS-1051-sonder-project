@@ -1,0 +1,21 @@
+{
+	"color": "#ffffb7b7",
+	"description": "dead-ish  fella",
+	"display_name": "Hiro",
+	"display_name_bool": true,
+	"id": "character-1682645548.json",
+	"mirror_portraits": false,
+	"name": "Hiro.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Character Sprites/hiro.PNG"
+		}
+	],
+	"scale": 25,
+	"theme": "default-theme.cfg"
+}

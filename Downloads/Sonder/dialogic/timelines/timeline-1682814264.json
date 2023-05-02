@@ -1,0 +1,37 @@
+{
+	"events": [
+		{
+			"change_timeline": "timeline-1682721018.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"change_timeline": "timeline-1682560061.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"change_timeline": "timeline-1682642963.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"change_timeline": "timeline-1682650947.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"change_timeline": "timeline-1682721271.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"change_timeline": "timeline-1682728334.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"change_timeline": "timeline-1682730580.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1682814264.json",
+		"name": "guide"
+	}
+}

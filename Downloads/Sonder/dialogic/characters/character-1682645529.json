@@ -1,0 +1,21 @@
+{
+	"color": "#ffbea369",
+	"description": "M1",
+	"display_name": "Daniel",
+	"display_name_bool": true,
+	"id": "character-1682645529.json",
+	"mirror_portraits": false,
+	"name": "Daniel.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Character Sprites/Daniel.PNG"
+		}
+	],
+	"scale": 30,
+	"theme": "default-theme.cfg"
+}

@@ -1,0 +1,21 @@
+{
+	"color": "#ffff2222",
+	"description": "boss man",
+	"display_name": "Mr. Smith",
+	"display_name_bool": true,
+	"id": "character-1682645552.json",
+	"mirror_portraits": false,
+	"name": "MrBoss.json",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Character Sprites/MrBoss.PNG"
+		}
+	],
+	"scale": 30,
+	"theme": "default-theme.cfg"
+}
