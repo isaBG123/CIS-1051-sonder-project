@@ -2,7 +2,7 @@ Game Title: Sonder.
 
 Made by Dary Demchuk(Freshman), Isabel Gallard(Junior), and Vee Wien(Freshman)
 
-DEMO LINK: (insert link)
+DEMO LINK: https://www.youtube.com/watch?v=IudxDAc4Vnw
 
 Overview: Part visual novel with slight elements of horror, and is supposed to be part platformer. You play as a dust bunny that explores an office setting.
 
